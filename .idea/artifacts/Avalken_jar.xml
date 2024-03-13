@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Avalken:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Avalken_jar</output-path>
+    <root id="archive" name="2DActionAdventure.jar">
+      <element id="module-output" name="2DActionAdventure" />
+    </root>
+  </artifact>
+</component>
